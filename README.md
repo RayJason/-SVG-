@@ -1,0 +1,1 @@
+# wxSVG-newYearSign
